@@ -1,5 +1,5 @@
 ### HELLO WORLD👋
-# iam ashwanth welcome to my profile
+# iam ashwanth
 
 
 **ashwanth10XS/ashwanth10XS** 

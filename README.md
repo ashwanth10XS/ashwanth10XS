@@ -5,7 +5,7 @@
 **ashwanth10XS/ashwanth10XS** 
 
                                         
-- 🌱 I’m currently learning ..dbms,css,js
+- 🌱 I’m currently learning ..MERN Stack
 - 😄 Pronouns: ...he/him
-- ⚡ ask me about: ...python,ds through c
+- ⚡ ask me about: ...,ds through java
 

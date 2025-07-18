@@ -7,5 +7,5 @@
                                         
 - 🌱 I’m currently learning ..MERN Stack
 - 😄 Pronouns: ...he/him
-- ⚡ ask me about: ...,ds through java
+- ⚡ ask me about: ...ds through java
 
